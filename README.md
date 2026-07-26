@@ -1,2 +1,1 @@
-# deepseek
-DeepSeek for Legacy iOS
+здесь пока я не смог выложить
